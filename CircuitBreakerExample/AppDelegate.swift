@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CircuitBreakerExample
 //
-//  Created by Alex Drozhak on 9/13/17.
+//  Created by Alex Drozhak on 9/14/17.
 //  Copyright © 2017 93Hz. All rights reserved.
 //
 
